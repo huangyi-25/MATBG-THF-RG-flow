@@ -51,10 +51,10 @@ MATBG is formed by stacking two graphene layers with a small twist angle (~1.05�
 The notebooks define several important physical constants and coupling parameters:
 
 #### Material Parameters
-- **Fermi velocity** (`vs`): 430.3 m/s (in meV·nm units)
-- **Interlayer coupling** (`gamma`): 24.75 meV
+- **Fermi velocity** (`vs`): c-fermion Dirac velocity
+- **Interlayer coupling** (`gamma`): energy separation between remote bands
 - **Moire unit cell area** (`Omega0`): ~156 nm²
-- **Cutoff momentum** (`Lambda0`): Wave vector at mBZ boundary
+- **Cutoff momentum** (`Lambda0`): Wave vector at 1st mBZ boundary
 - **Energy scale** (`E0`): Characteristic energy combining velocity and mass gap
 
 #### Coupling Constants (all in meV)
